@@ -1,0 +1,7 @@
+python-dotenv
+openpyxl
+pydub
+scipy
+numpy
+matplotlib
+
